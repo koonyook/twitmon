@@ -1,0 +1,5 @@
+ERROR:root:(1146, "Table 'ml.tweets_wordseparaed' doesn't exist")
+ERROR:root:(1146, "Table 'ml.tweets_wordseparaed' doesn't exist")
+ERROR:root:(1146, "Table 'ml.tweets_wordseparaed' doesn't exist")
+ERROR:root:unhashable type: 'list'
+ERROR:root:unhashable type: 'list'

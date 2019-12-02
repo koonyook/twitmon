@@ -1,0 +1,6 @@
+หยุดเก็บ tweet ทั้งหมด จะได้นิ่ง
+run preprocess จนเสร็จ
+run wordsep (window)
+run get_class_prob
+run get_feature_prob
+run test_result > output.txt
